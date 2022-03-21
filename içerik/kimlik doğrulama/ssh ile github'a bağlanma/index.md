@@ -9,8 +9,7 @@ redirect_from:
   - /articles/ssh-key-setup
   - /articles/generating-ssh-keys
   - /articles/generating-an-ssh-key
-  - /articles/connecting-to-github-with-ssh
-  - /github/authenticating-to-github/connecting-to-github-with-ssh
+  - /-to-github/connecting-to-github-with-ssh
 versions:
   fpt: '*'
   ghes: '*'
